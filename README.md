@@ -1,4 +1,7 @@
-### *Materiels:*
+### *Description*
+Projet personelle d'une station météo alliant recupération de données (température,humidité,pression) de 3 systèmes "esclaves" envoyant leur donnée à un système "maître" et interogation d'une API meteo.
+
+### *Matériels:*
  - [Elecrow 7" HMI display](https://www.elecrow.com/esp32-display-7-inch-hmi-display-rgb-tft-lcd-touch-screen-support-lvgl.html)
  - [3 ESP32](https://www.amazon.fr/dp/B0D8T5XD3P?ref=ppx_yo2ov_dt_b_fed_asin_title)
  - [3 OLED I2C Screen](https://www.amazon.fr/dp/B0D8XMBX8S?ref=ppx_yo2ov_dt_b_fed_asin_title)
