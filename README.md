@@ -1,5 +1,5 @@
 ### *Description*
-Projet personelle d'une station météo alliant recupération de données (température,humidité,pression) de 3 systèmes "esclaves" envoyant leur donnée à un système "maître" et interogation d'une API meteo.
+Projet personel d'une station météo alliant recupération de données (température,humidité,pression) de 3 systèmes "esclaves" envoyant leur donnée à un système "maître" et interogation d'une API meteo.
 
 ### *Matériels:*
  - [Elecrow 7" HMI display](https://www.elecrow.com/esp32-display-7-inch-hmi-display-rgb-tft-lcd-touch-screen-support-lvgl.html)
